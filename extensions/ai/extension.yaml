@@ -1,0 +1,5 @@
+
+api: 
+- name: ai
+  version: v0.0.1
+  description: AI extension for api-testing
