@@ -3,3 +3,5 @@ items:
     dependencies:
       - name: atest-store-database
     link: https://github.com/LinuxSuRen/atest-ext-store-database
+  - name: ai
+    link: ./extensions/ai
